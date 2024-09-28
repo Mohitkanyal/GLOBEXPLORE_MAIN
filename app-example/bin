@@ -1,0 +1,31 @@
+<><Stack.Screen options={{
+    //   headerTransparent: true,
+    //   // // headerTitle : "GLOBEXPLORE",
+    //   // headerTitleAlign:'center',
+    //   // headerTitleStyle:{fontWeight: 'bold',fontSize:28,textDecorationStyle:'underline'},
+    //   headerLeft: () => (
+    //     <TouchableOpacity onPress={() => {router.push('/tabs/Home')}} style={{marginLeft: 20,backgroundColor: Colors.white,
+    //       padding: 10,
+    //       borderRadius: 10,
+    //       shadowColor: '#171717',
+    //       shadowOffset: {width: 2, height: 4},
+    //       shadowOpacity: 0.2,
+    //       shadowRadius: 3,}}>
+    //       <MaterialIcons name="travel-explore" size={28} color="black" />
+    //     </TouchableOpacity>
+    //   ),
+    //   // headerRight: () => (
+    //   //   <TouchableOpacity onPress={() => {}} style={{
+    //   //     marginRight: 20, 
+    //   //     backgroundColor: Colors.white,
+    //   //     padding: 10,
+    //   //     borderRadius: 10,
+    //   //     shadowColor: '#171717',
+    //   //     shadowOffset: {width: 2, height: 4},
+    //   //     shadowOpacity: 0.2,
+    //   //     shadowRadius: 3,
+    //   //   }}>
+    //   //     <Ionicons name='notifications' size={20} color={Colors.black}/>
+    //   //   </TouchableOpacity>
+    //   // ),
+    // }}/>

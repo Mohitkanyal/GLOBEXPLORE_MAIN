@@ -1,0 +1,49 @@
+
+[
+    {
+        "id": "1",
+        "name": "Tropical Paradise Resort",
+        "image": "https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Escape to the ultimate tropical paradise retreat with breathtaking ocean views.",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+    },
+    {
+        "id": "2",
+        "name": "Alpine Chalet Retreat",
+        "image": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bmF0dXJlfGVufDB8MHwwfHx8Mg%3D%3D",
+        "description": "Experience the breathtaking beauty of the Alps from your own private chalet.",
+        "rating": 4.5,
+        "price": "120",
+        "duration": "4",
+        "location": "Switzerland",
+        "category": "Mountains"
+    },
+    {
+        "id": "3",
+        "name": "Desert Oasis Escape",
+        "image": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmF0dXJlfGVufDB8MHwwfHx8Mg%3D%3D",
+        "description": "Experience the tranquility of a desert oasis with luxury amenities.",
+        "rating": 4.7,
+        "price": "180",
+        "duration": "5",
+        "location": "Sahara Desert",
+        "category": "Deserts"
+    },
+    {
+        "id": "4",
+        "name": "City Lights Getaway",
+        "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG5hdHVyZXxlbnwwfDB8MHx8fDI%3D",
+        "description": "Discover the vibrant city life and iconic landmarks.",
+        "rating": 4.6,
+        "price": "200",
+        "duration": "4",
+        "location": "New York City, USA",
+        "category": "Cities"
+    }
+    
+    
+]
